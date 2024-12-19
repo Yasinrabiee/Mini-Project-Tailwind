@@ -1,1 +1,1 @@
-# [View Website](https://yasinrabiee.github.io/Mini-Project-Tailwind/)
+# [View Website](https://yasinrabiee.github.io/Mini-Project-Tailwind/public)
