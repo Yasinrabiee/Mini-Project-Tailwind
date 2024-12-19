@@ -1,13 +1,14 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./public/*.html"],
+  darkMode: "class",
   theme: {
-    fontFamily: {
-      Mikhak: "Mikhak",
-      "Mikhak-Bold": "Mikhak Bold",
-    },
 
     extend: {
+      fontFamily: {
+        Mikhak: "Mikhak",
+        "Mikhak-Bold": "Mikhak Bold",
+      },
       colors: {
         primary: {
           DEFAULT: "#000",
