@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Mikhak;
+    src: url("../fonts/Mikhak-DS2-Regular.woff2");
+  }
+}
+
+@layer base {
+  @font-face {
+    font-family: "Mikhak Bold";
+    src: url("../fonts/Mikhak-DS2-Bold.woff2");
+  }
+}
